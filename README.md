@@ -1,7 +1,7 @@
 # 🤖 Vin H
 **`Digital Craftsman (Fullstack Developer/Software Engineer)`**
 
-Hello there! My name is Vin H and I am a Fullstack Developer and Software Engineer with the goal to make the internet a better place. I always were passionate about building my own projects and applications. I started my coding journey when I was 12 years of age. One of my first ever projects was actually a Discord bot written in JavaScript by using Discord.js and the NodeJS runtime environment. My first ever websites were HORRIBLE but now I would say I am pretty good at making frontend designs. You can always check out my [portfolio](https://vin.rocks) for more information about me. I have a long journey to go and I am excited to see what this journey will offer me.
+Hello there! My name is Vin H and I am a Fullstack Developer and Software Engineer with the goal to make the internet a better place. I always was passionate about building my own projects and applications. I started my coding journey when I was 12 years old. One of my first ever projects was a Discord bot written in JavaScript which utilized Discord.js and the NodeJS runtime environment. My first ever websites were HORRIBLE but now I would say I am pretty good at making frontend designs. You can always check out my [portfolio](https://vin.rocks) for more information about me. I have a long journey to go and I am excited to see what this journey will offer me.
 
 <img src="https://i.redd.it/tsy10hp4ukq21.gif">
 
