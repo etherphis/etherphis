@@ -1,24 +1,30 @@
-# 🤖 Vin H
-**`Digital Craftsman (Fullstack Developer/Software Engineer)`**
+# 🚀 Etherphis: Architect of Digital Realms
 
-Hello there! My name is Vin H and I am a Fullstack Developer and Software Engineer with the goal to make the internet a better place. I always was passionate about building my own projects and applications. I started my coding journey when I was 12 years old. One of my first ever projects was a Discord bot written in JavaScript which utilized Discord.js and the NodeJS runtime environment. My first ever websites were HORRIBLE but now I would say I am pretty good at making frontend designs. You can always check out my [portfolio](https://vin.rocks) for more information about me. I have a long journey to go and I am excited to see what this journey will offer me.
+**`Master of Code, Digital Sorcery, and Embedded Realms`**
 
-<img src="https://i.redd.it/tsy10hp4ukq21.gif">
+Greetings, wanderer of the digital and embedded realms! I am Etherphis, a seasoned Fullstack Developer, Software Engineer, and Craftsman of Hardware, on a quest to reshape the very fabric of the internet and beyond. My coding journey began at the tender age of 12, with my maiden project being a Discord bot crafted in JavaScript using Discord.js and the NodeJS runtime. This initiation marked the inception of my digital odyssey, and since then, I've evolved into a maestro of frontend craftsmanship, an architect of digital realities, and a sorcerer of embedded systems.
 
 ---
 
-### 🔧 My Tech Stack
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+Embark on an enchanting journey through the digital cosmos with Etherphis as your guide. May the code be ever in your favor! 🌌✨
 
-<br />
+
+---
+
+### 🌐 Crafting Digital Utopias and Embedded Realities
+
+In my pursuit of excellence, I have honed my skills not only in creating seamless and aesthetically pleasing websites but also in the intricate dance of electrons within hardware devices. My portfolio, [Etherphis.io](https://etherphis.io), stands as a testament to the harmony of design, functionality, and the fusion of code with physical components. Explore the digital utopias and embedded realities I've crafted, each a unique manifestation of my passion for creating delightful user experiences and tangible technological marvels.
+
+---
+
+### 🛡️ Guardian of Cyber Realms
+
+In the ever-expanding landscape of cybersecurity, I stand as a guardian, ever-vigilant against digital threats. My love for cybersecurity extends beyond the ordinary; it's a commitment to ensuring the sanctity of the digital realms I traverse. As I code, I fortify, ensuring the resilience and security of the systems I touch.
+
+---
+
+### 🚀 Future Endeavors
+
+The journey is long, and the horizon ever-expanding. As I traverse the ever-evolving landscape of technology, anticipating new challenges and triumphs, I continue to push the boundaries not only in the digital but also in the embedded and cybersecurity realms. Join me on this epic odyssey, and together, let's continue making the internet, hardware devices, and digital landscapes more secure, innovative, and wondrous.
+
+May the code be ever in your favor! 🌌✨
