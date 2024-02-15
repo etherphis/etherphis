@@ -6,11 +6,6 @@ Greetings, wanderer of the digital and embedded realms! I am Etherphis, a season
 
 ---
 
-Embark on an enchanting journey through the digital cosmos with Etherphis as your guide. May the code be ever in your favor! 🌌✨
-
-
----
-
 ### 🌐 Crafting Digital Utopias and Embedded Realities
 
 In my pursuit of excellence, I have honed my skills not only in creating seamless and aesthetically pleasing websites but also in the intricate dance of electrons within hardware devices. My portfolio, [Etherphis.io](https://etherphis.io), stands as a testament to the harmony of design, functionality, and the fusion of code with physical components. Explore the digital utopias and embedded realities I've crafted, each a unique manifestation of my passion for creating delightful user experiences and tangible technological marvels.
